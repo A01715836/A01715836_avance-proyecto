@@ -1,5 +1,5 @@
 #meti un import random pero no supe como implementarlo en mi programa
-
+#https://github.com/A01715836/A01715836_avance-proyecto
 # función que calcula el promedio de las calificaciones
 def calcular_promedio(calif1, calif2, calif3):
     return (calif1 + calif2 + calif3) / 3
